@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="employee_detail">Contact Detail</string>
+    <string name="employee_master">Contacts</string>
+    <string name="action">Favorite</string>
+    <string name="list_literal">List ID: </string>
+    <string name="name_literal">  Name: </string>
+    <color name="white">#FFFFFF</color>
+</resources>
